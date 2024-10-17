@@ -69,7 +69,7 @@ header input {
     padding: 5px 25px 8px 27px;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url('/img/Vector.png');
+    background-image: url('img/Vector.png');
     background-position: 220px 3px;
     background-repeat: no-repeat;
     width: 200px;
@@ -301,5 +301,148 @@ footer{
    justify-content: space-around;
     position: relative;
    
+}
+.terifs{
+    display: flex;
+    justify-content: space-around;
+    padding:40px;
+    height: 500px;
+    text-align: center;
+    font-size: 20px;
+    padding: 80px;
+}
+.child{
+    display: flex;
+    width: 25%;
+    background:gainsboro;
+    flex-direction: column;
+    padding-inline: 40px;
+
+   
+}
+.adults{
+    display: flex;
+    width: 25%;
+    background: gainsboro;
+    flex-direction: column;
+    padding-inline: 40px;
+}
+.student{
+    display: flex;
+    width: 25%;
+    background: gainsboro;
+    flex-direction: column;
+    padding-inline: 40px;
+}
+.prx{
+    color:red;
+    font-size: 45px;
+    margin-top: 50px;
+}
+.bottom{
+    background:#990094;
+    width: 100%;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    
+}
+.bottom1{
+    background:#990094;
+    width: 100%;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    
+}
+.bottom2{
+    background:#990094;
+    width: 100%;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 124px;
+}
+.prx1{
+    color:red;
+    font-size: 45px;
+    margin-top: 70px;
+}
+.prx2{
+    color:red;
+    font-size: 45px;
+    margin-top: 20px;
+}
+.prx11{
+    color:red;
+    font-size: 45px;
+    margin-top: 50px;
+}
+.terifs1{
+    display: flex;
+    justify-content: space-around;
+    padding:40px;
+    height: 500px;
+    text-align: center;
+    font-size: 20px;
+    padding-inline: 80px;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 200px;
+}
+.contact input::placeholder{
+    color:#000000
+}
+.contact input{
+    height: 20px;
+    background: #CCCCCC;
+    margin: 5px;
+    border:solid 2px #CCCCCC;
+    padding: 20px;
+    color:#990094;
+    font-size: 25px;
+}
+.contact input.message{
+    height: 70px;
+}
+.contact h2{
+    color: #330031;
+    width: 400px;
+    font-size: 40px;
+    padding: 20px;
+}
+.contact input.submit{
+    background: #330031;
+    color: #FFFFFF;
+    border-radius:30px 30px 30px 30px;
+    width: 200px;
+    font-size: 25px;
+    text-align: start;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.contact2{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    height: auto;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.contact2 b{
+    font-size: 60px;
+}
+.contact2 p{
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #990094;
 }
 
