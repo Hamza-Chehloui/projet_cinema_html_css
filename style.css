@@ -94,7 +94,7 @@ a{
  background-color:#FFFFFF;
  margin-left:15px;
 }
-#active{
+.active{
     color:#421FEF;
 }
 .movies{
