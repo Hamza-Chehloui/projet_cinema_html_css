@@ -1,2 +1,2 @@
-- <a href="https://trello.com/b/5fC1RHak/projectcinima">TRELLO</a>
+- <a href="https://trello.com/invite/b/670d37a992ed723900214493/ATTIbd26cabb2591cac9fe5ccaf540d05115B8C57DE2/projectcinima">TRELLO</a>
 - <a href="https://hamza-chehloui.github.io/projet_cinema_html_css/">Sit cinema</a>
